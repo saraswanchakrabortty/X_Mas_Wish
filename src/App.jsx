@@ -10,7 +10,7 @@ const App = () => {
     "This Christmas,\nI choose you again—\nnot perfect, not polished,\njust real.\nI choose how you calm my edges,\nhow your anger carries care,\nhow your love stays\neven when you're tired.",
     "I don't want to win.\nI don't want to be right.\nI just want to understand you\nwithout turning your fears into fights.",
     "So if the world feels heavy tonight,\ncome rest here.\nNo storms. No distance.\nJust two hearts\nlearning—slowly—\nhow to listen.",
-    "Merry Christmas, my love.\nNo!! Sorry My Sreyashi\nI'm still here.\nStill choosing you.\nStill learning how to love you better.",
+    "Merry Christmas, my love.\nNo!! Sorry, My Sreyashi\nI'm still here.\nStill choosing you.\nStill learning how to love you better.",
     "I'm here...Your Abubuuu!!"
   ];
 
