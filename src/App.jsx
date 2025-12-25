@@ -11,7 +11,7 @@ const App = () => {
     "I don't want to win.\nI don't want to be right.\nI just want to understand you\nwithout turning your fears into fights.",
     "So if the world feels heavy tonight,\ncome rest here.\nNo storms. No distance.\nJust two hearts\nlearning—slowly—\nhow to listen.",
     "Merry Christmas, my love.\nNo!! Sorry, My Sreyashi\nI'm still here.\nStill choosing you.\nStill learning how to love you better.",
-    "I'm here...Your Abubuuu!!"
+    "I'm here...Your only Abubuuu!!"
   ];
 
   // State management
